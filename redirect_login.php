@@ -13,7 +13,7 @@
         <h1 align="center">Login Needed!</h1>
         <p class="lead" align="center">You need to Login to use Attendance Management System.</p>
         <div class = form-group>
-		<button type='submit' class='btn btn-primary center-block' role = 'button' formaction ="main_login.php">Login</button><br>
+		<button type='submit' class='btn btn-primary center-block' role = 'button' formaction ="index.php">Login</button><br>
 		</div>
       </div>
       </div>

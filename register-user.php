@@ -34,7 +34,7 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
 
 			echo "<center>User Registered<br>";
 			echo "You can login from here<br>";
-			echo "<a href='main_login.php'>Login</a>";
+			echo "<a href='index.php'>Login</a>";
 		}
 
 
